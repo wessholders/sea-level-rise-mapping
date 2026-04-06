@@ -5,7 +5,7 @@
 <br>
 
 #### What kind of DEM works best?
-Tidally referenced Coastal DEM's of all coastal counties and territories in the United States have been produced by NOAA. They can be downloaded [here](https://coast.noaa.gov/slrdata/)(https://coast.noaa.gov/htdata/raster2/elevation/SLR_viewer_DEM_6230/)). To download you will want to select the state/territory, find the counties/region of interest (not all are 100% accurate), and click the DEM icon to initiate a download.
+Tidally referenced Coastal DEM's of all coastal counties and territories in the United States have been produced by NOAA. They can be downloaded [here](https://coast.noaa.gov/htdata/raster2/elevation/SLR_viewer_DEM_6230/)(https://coast.noaa.gov/htdata/raster2/elevation/SLR_viewer_DEM_6230/)). To download you will want to select the state/territory, find the counties/region of interest (not all are 100% accurate), and click the DEM icon to initiate a download.
 #### Why are the NOAA DEM's the best?
 - They are extremely high resolution (<3m)
 - The original water surface in the DEM extends out to sea.
